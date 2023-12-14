@@ -1,0 +1,2 @@
+# tarjetaPokemon
+practicando fetch
